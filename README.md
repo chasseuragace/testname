@@ -1,6 +1,6 @@
 # materialapp
 Login
-![1](https://raw.githubusercontent.com/chasseuragace/notetaking/master/screenshots/login.png)
+![1](https://raw.githubusercontent.com/chasseuragace/notetaking/master/screenshots/login.png | width=100))
 homepage empty
 ![2](https://raw.githubusercontent.com/chasseuragace/notetaking/master/screenshots/home.png)
 homepage
